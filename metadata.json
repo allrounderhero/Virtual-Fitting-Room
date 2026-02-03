@@ -1,0 +1,5 @@
+{
+  "name": "Tryon system (Demo)",
+  "description": "A demo version of the virtual try-on application. This prototype simulates the workflow of uploading photos and visualizing clothing items without active AI backend processing.",
+  "requestFramePermissions": []
+}
